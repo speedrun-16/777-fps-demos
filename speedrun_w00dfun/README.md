@@ -6,10 +6,11 @@ This directory contains player records achieved in the **777 FPS** category for 
 
 | Rank | Best Time | Record Holder | Date                |
 | :--- | :-------- | :------------ | :------------------ |
-| #1   | [00:09.640](./00009640_STEAM_0_1_535182532_20250921-080134.zip) | [STEAM_0:1:535182532](https://speedrun16.com/profile/STEAM_0:1:535182532)   | 2025-09-21 08:01:34 |
+| #1   | [00:08.687](./00008687_STEAM_0_1_29970948_20251029-043110.zip) | [STEAM_0:1:29970948](https://speedrun16.com/profile/STEAM_0:1:29970948)   | 2025-10-29 04:31:10 |
+| #2   | [00:09.640](./00009640_STEAM_0_1_535182532_20250921-080134.zip) | [STEAM_0:1:535182532](https://speedrun16.com/profile/STEAM_0:1:535182532)   | 2025-09-21 08:01:34 |
 
 ---
 
 ### Record Summary
-**Record Holder:** [00:09.640](./00009640_STEAM_0_1_535182532_20250921-080134.zip) (by [STEAM_0:1:535182532](https://speedrun16.com/profile/STEAM_0:1:535182532))  
-**Total PBs Archived:** 1
+**Record Holder:** [00:08.687](./00008687_STEAM_0_1_29970948_20251029-043110.zip) (by [STEAM_0:1:29970948](https://speedrun16.com/profile/STEAM_0:1:29970948))  
+**Total PBs Archived:** 2
