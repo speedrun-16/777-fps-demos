@@ -8,10 +8,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | :--- | :---- | :--- |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 1 | 2025-09-30 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-09-14 |
+| [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 2 | 2025-10-29 |
 
 ---
 
 ### Statistics
-- Total Maps: **3**
-- Total Demos: **4**
+- Total Maps: **4**
+- Total Demos: **5**
