@@ -11,10 +11,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemical](./speedrun_chemical) | 2 | 2025-11-13 |
 | [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
 | [speedrun_neocist](./speedrun_neocist) | 1 | 2025-12-04 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 2 | 2025-10-29 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 3 | 2025-12-13 |
 
 ---
 
 ### Statistics
 - Total Maps: **6**
-- Total Demos: **9**
+- Total Demos: **10**
