@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "683569dfc486b6f3fa84ee790479d2884ec79a68d43b925523d855c614a4eeb9",
+    "uid": "QI5QW4VKD",
+    "map": "speedrun_1000fps_battle",
+    "category": 7,
+    "time": 7373,
+    "playerSteamId": "STEAM_0:0:193002961",
+    "timestamp": "2026-05-21T20:07:39.000Z",
+    "zipFilename": "00007373_STEAM_0_0_193002961_20260521-200739.zip",
+    "path": "speedrun_1000fps_battle/00007373_STEAM_0_0_193002961_20260521-200739.zip",
+    "archivedAt": "2026-05-22T00:00:17.900Z"
+  },
+  {
     "demFileHash": "4efda57e47961fff42efcd6d0969ab6cf5b4c6d348a33c883c7a868dde68c114",
     "uid": "CL49T6S08",
     "map": "speedrun_miqu",
