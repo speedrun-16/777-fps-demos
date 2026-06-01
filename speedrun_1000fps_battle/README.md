@@ -7,8 +7,8 @@ This directory contains player records achieved in the **777 FPS** category for 
 | Rank | Best Time | Record Holder | Date                |
 | :--- | :-------- | :------------ | :------------------ |
 | #1   | [00:06.353](./00006353_STEAM_0_1_447056338_20260512-023446.zip) | [STEAM_0:1:447056338](https://speedrun16.com/profile/STEAM_0:1:447056338)   | 2026-05-12 02:34:46 |
-| #2   | [00:07.211](./00007211_STEAM_0_1_84733295_20250930-001749.zip) | [STEAM_0:1:84733295](https://speedrun16.com/profile/STEAM_0:1:84733295)   | 2025-09-30 00:17:49 |
-| #3   | [00:07.373](./00007373_STEAM_0_0_193002961_20260521-200739.zip) | [STEAM_0:0:193002961](https://speedrun16.com/profile/STEAM_0:0:193002961)   | 2026-05-21 20:07:39 |
+| #2   | [00:06.488](./00006488_STEAM_0_0_193002961_20260601-161943.zip) | [STEAM_0:0:193002961](https://speedrun16.com/profile/STEAM_0:0:193002961)   | 2026-06-01 16:19:43 |
+| #3   | [00:07.211](./00007211_STEAM_0_1_84733295_20250930-001749.zip) | [STEAM_0:1:84733295](https://speedrun16.com/profile/STEAM_0:1:84733295)   | 2025-09-30 00:17:49 |
 
 ---
 
