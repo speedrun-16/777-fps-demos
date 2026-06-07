@@ -17,7 +17,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_miqu](./speedrun_miqu) | 1 | 2026-05-15 |
 | [speedrun_neocist](./speedrun_neocist) | 1 | 2025-12-04 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 1 | 2025-12-19 |
-| [speedrun_pupsik](./speedrun_pupsik) | 1 | 2026-01-22 |
+| [speedrun_pupsik](./speedrun_pupsik) | 2 | 2026-06-07 |
 | [speedrun_vantara](./speedrun_vantara) | 1 | 2026-04-28 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 3 | 2025-12-13 |
 
@@ -25,4 +25,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **14**
-- Total Demos: **20**
+- Total Demos: **21**
