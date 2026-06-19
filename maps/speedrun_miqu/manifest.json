@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_miqu",
+  "updatedAt": "2026-06-19T05:55:41.452670Z",
+  "runs": [
+    {
+      "uid": "CL49T6S08",
+      "rid": 53253,
+      "hash": "4efda57e47961fff42efcd6d0969ab6cf5b4c6d348a33c883c7a868dde68c114",
+      "t": 14549,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-15T17:21:41Z",
+      "zip": "00014549_STEAM_0_1_87291981_20260515-172141.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_miqu-20260515-#CL49T6S08.analysis.json",
+          "off": 77,
+          "size": 1302445
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_miqu-20260515-#CL49T6S08.dem",
+          "off": 1302589,
+          "size": 277611
+        },
+        {
+          "type": "replay",
+          "name": "53253.replay.xz",
+          "off": 1580245,
+          "size": 152964
+        }
+      ]
+    }
+  ]
+}

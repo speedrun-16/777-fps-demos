@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_vantara",
+  "updatedAt": "2026-06-19T05:55:41.452670Z",
+  "runs": [
+    {
+      "uid": "PRKUHXUSV",
+      "rid": 46494,
+      "hash": "8ae79ce74d527419515482326aa1c1dbd50f69c6c96d2e0de4e7f6ddf6707c26",
+      "t": 13735,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-04-28T20:12:25Z",
+      "zip": "00013735_STEAM_0_1_87291981_20260428-201225.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_vantara-20260428-#PRKUHXUSV.analysis.json",
+          "off": 80,
+          "size": 1191894
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_vantara-20260428-#PRKUHXUSV.dem",
+          "off": 1192044,
+          "size": 261463
+        },
+        {
+          "type": "replay",
+          "name": "46494.replay.xz",
+          "off": 1453552,
+          "size": 147468
+        }
+      ]
+    }
+  ]
+}

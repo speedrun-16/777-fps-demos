@@ -1,28 +1,23 @@
-# Category Archive: 777 FPS
+# 777 FPS Demo Archive
 
-This repository is a structured archive for personal best demos achieved in the **777 FPS** category.
+Personal best demo archive for the 777 FPS category.
 
-## Map List
+## Statistics
 
-| Map Name | Demos | Last Updated |
-| :--- | :---- | :--- |
-| [de_dust](./de_dust) | 1 | 2026-05-27 |
-| [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2026-05-08 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2026-06-01 |
-| [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-09-14 |
-| [speedrun_chemical](./speedrun_chemical) | 2 | 2025-11-13 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 2 | 2026-05-10 |
-| [speedrun_evidenz](./speedrun_evidenz) | 1 | 2026-05-10 |
-| [speedrun_faster](./speedrun_faster) | 1 | 2025-11-09 |
-| [speedrun_miqu](./speedrun_miqu) | 1 | 2026-05-15 |
-| [speedrun_neocist](./speedrun_neocist) | 1 | 2025-12-04 |
-| [speedrun_pool_simple](./speedrun_pool_simple) | 1 | 2025-12-19 |
-| [speedrun_pupsik](./speedrun_pupsik) | 2 | 2026-06-07 |
-| [speedrun_vantara](./speedrun_vantara) | 1 | 2026-04-28 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 3 | 2025-12-13 |
+| Metric | Value |
+| :-- | --: |
+| Maps | 14 |
+| Archived PBs | 21 |
+| Latest Update | 2026-06-07 |
 
----
+## Structure
 
-### Statistics
-- Total Maps: **14**
-- Total Demos: **21**
+| Path | Contents |
+| :-- | :-- |
+| `manifest.json` | Repository summary and per-map manifest pointers |
+| `maps/<map>/manifest.json` | Runs archived for one map |
+| `maps/<map>/*.zip` | Demo archive files |
+
+## Access
+
+Use `manifest.json` as the entry point. Each map manifest contains archive filenames and byte ranges for files inside each zip.

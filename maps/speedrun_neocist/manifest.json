@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_neocist",
+  "updatedAt": "2026-06-19T05:55:41.452670Z",
+  "runs": [
+    {
+      "uid": "JUCPWVZNN",
+      "rid": 19970,
+      "hash": "d97958593d1a9d6ac90cc3e0dc97fe3cb3d0ba6570a9307c36b6bec8971f2ed7",
+      "t": 11264,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-12-04T19:40:26Z",
+      "zip": "00011264_STEAM_0_1_796767048_20251204-194026.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_neocist-20251204-#JUCPWVZNN.analysis.json",
+          "off": 80,
+          "size": 1010904
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_neocist-20251204-#JUCPWVZNN.dem",
+          "off": 1011054,
+          "size": 258864
+        },
+        {
+          "type": "replay",
+          "name": "19970.replay.xz",
+          "off": 1269963,
+          "size": 128368
+        }
+      ]
+    }
+  ]
+}

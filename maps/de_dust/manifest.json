@@ -1,0 +1,35 @@
+{
+  "map": "de_dust",
+  "updatedAt": "2026-06-19T05:55:41.452670Z",
+  "runs": [
+    {
+      "uid": "LOO52W3WP",
+      "rid": 57233,
+      "hash": "5b5c833a66509773e7ae8b0e80af4ce48bd74ea9bd9273b9c7f148d3e576101c",
+      "t": 10014,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-27T16:12:33Z",
+      "zip": "00010014_STEAM_0_1_87291981_20260527-161233.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_dust-20260527-#LOO52W3WP.analysis.json",
+          "off": 71,
+          "size": 942964
+        },
+        {
+          "type": "dem",
+          "name": "de_dust-20260527-#LOO52W3WP.dem",
+          "off": 943096,
+          "size": 189153
+        },
+        {
+          "type": "replay",
+          "name": "57233.replay.xz",
+          "off": 1132294,
+          "size": 93544
+        }
+      ]
+    }
+  ]
+}
