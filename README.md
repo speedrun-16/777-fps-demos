@@ -6,9 +6,9 @@ Personal best demo archive for the 777 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 14 |
-| Archived PBs | 21 |
-| Latest Update | 2026-06-07 |
+| Maps | 15 |
+| Archived PBs | 22 |
+| Latest Update | 2026-06-19 |
 
 ## Structure
 

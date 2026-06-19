@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_runners",
+  "updatedAt": "2026-06-19T08:36:50.073Z",
+  "runs": [
+    {
+      "uid": "GQVAC7NPR",
+      "rid": 64661,
+      "hash": "91ed530e2162493ae2a9721cff7b28a5481a105d447f020de3456e87153b99eb",
+      "t": 13633,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-06-19T08:36:39.000Z",
+      "zip": "00013633_STEAM_0_1_29970948_20260619-083639.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_runners-20260619-#GQVAC7NPR.dem",
+          "off": 70,
+          "size": 165214
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_runners-20260619-#GQVAC7NPR.analysis.json",
+          "off": 165364,
+          "size": 374355
+        },
+        {
+          "type": "replay",
+          "name": "64661.replay.xz",
+          "off": 539764,
+          "size": 56124
+        }
+      ]
+    }
+  ]
+}
